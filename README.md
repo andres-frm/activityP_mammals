@@ -5,7 +5,7 @@ Data and R scripts to reproduce the activity pattern analysis of non-volant mamm
 
 An associated work can be consulted [here](https://www.biotaxa.org/cl/article/view/11.2.1582), and a nice video of the animals recorded [here](https://youtu.be/riBu9KpGRXo) -the video was edited by my self a long time ago, so don´t be fussy :)-
 
-**Related notes in local newspapers about this work here:**
+**Related notes in local newspapers about this work, here:**
 
 [El trabajo de grado de un estudiante de la U. de Caldas permitió observar un puma](https://www.lapatria.com/manizales/el-trabajo-de-grado-de-un-estudiante-de-la-u-de-caldas-permitio-observar-un-puma-43964)
 
