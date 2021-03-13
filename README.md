@@ -14,7 +14,7 @@ mammal_activity.txt: data of mammals activity records. Hour of the day is estima
 
 mammal_activity.R: R script to produce Kernel density plots, and estimate the coefficient of activity overlap.
 
-
+mammal_activity.pdf: script and outputs in pdf format.
 
 
 
