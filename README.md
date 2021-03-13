@@ -7,6 +7,7 @@ An associated work can be consulted [here](https://www.biotaxa.org/cl/article/vi
 
 **Related notes in local newspapers about this work here:**
 [El trabajo de grado de un estudiante de la U. de Caldas permitió observar un puma](https://www.lapatria.com/manizales/el-trabajo-de-grado-de-un-estudiante-de-la-u-de-caldas-permitio-observar-un-puma-43964)
+
 [Se observó otro puma en reserva forestal de la Chec](https://www.lapatria.com/manizales/se-observo-otro-puma-en-reserva-forestal-de-la-chec-88246)
 
 
