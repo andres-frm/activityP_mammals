@@ -12,7 +12,7 @@ An associated work can be consulted [here](https://www.biotaxa.org/cl/article/vi
 [Se observó otro puma en reserva forestal de la Chec](https://www.lapatria.com/manizales/se-observo-otro-puma-en-reserva-forestal-de-la-chec-88246)
 
 
-### Files
+## Files
 
 README.md: general repository's description.
 
