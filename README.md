@@ -9,7 +9,8 @@ An associated work can be consulted [here]<https://www.biotaxa.org/cl/article/vi
 ### Files
 
 README.md: general repository's description.
-mammal_activity.txt: data of activity records of the terrestrial mammals. Hour of the day is estimated as a unite.  
+mammal_activity.txt: data of mammals activity records. Hour of the day is estimated as the unite.
+mammal_activity.R: R script to produce Kernel density plots, and estimate the coefficient of activity overlap.
 
 
 
