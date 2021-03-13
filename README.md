@@ -1,7 +1,7 @@
 # data from
 ## Ramírez-Mejía & Sánchez (2016) Activity patterns and habitat use of mammals in an Andean forest and a Eucalyptus reforestation in Colombia. Hystrix 27
 
-Data and R scripts to reproduce the activity pattern analysis of non-volant mammals published in Ramírez-Mejía and Sánchez (2016). Feel free to contact me if you have any comment or suggestion. Download the article [here]<http://www.italian-journal-of-mammalogy.it/Activity-patterns-and-habitat-use-of-mammals-in-an-Andean-forest-and-a-Eucalyptus,77145,0,2.html> 
+Data and R scripts to reproduce the activity pattern analysis of non-volant mammals published in Ramírez-Mejía and Sánchez (2016). Feel free to contact me if you have any comment or suggestion. Download the article [here][http://www.italian-journal-of-mammalogy.it/Activity-patterns-and-habitat-use-of-mammals-in-an-Andean-forest-and-a-Eucalyptus,77145,0,2.html] 
 
 An associated work can be consulted [here]<https://www.biotaxa.org/cl/article/view/11.2.1582>, and a nice video of the animals recorded [here]<https://youtu.be/riBu9KpGRXo>
 
